@@ -47,7 +47,7 @@ try:
     print(f"\n5. Toplam benzersiz onaylı başvuru sayısı: {len(onayli_kayitlar)}")
 
     EMAIL_ADDRESS = "atayapayzeka@yandex.com"
-    EMAIL_PASSWORD = "vkcnkdsgegxgmduu"
+    EMAIL_PASSWORD = "aaaa"
     smtp_server = "smtp.yandex.com"
     port = 465
 
